@@ -1,4 +1,4 @@
-#  Aconite's Cleaner — Blender Addon
+<img width="220" height="409" alt="Screenshot 2026-04-01 164051" src="https://github.com/user-attachments/assets/d1680438-c612-45e0-a768-5537dcf5f172" />#  Aconite's Cleaner — Blender Addon
 
 A quality-of-life Blender addon for cleaning up mesh data after common rigging workflows — shape key filtering, bone cleanup, and finger weight isolation, all from a tidy N-panel sidebar.
 
@@ -21,6 +21,8 @@ Clean up shape keys after using **Mesh Data Transfer** from a character body to 
 - Select which finger and side (Left / Right) you want to keep
 - In Edit Mode with vertices selected, removes all other finger weights from those verts
 - Auto-scans to confirm the target vertex group exists before making any changes
+  
+<img width="220" height="409" alt="Screenshot 2026-04-01 164051" src="https://github.com/user-attachments/assets/b485d7b5-07f9-40b5-b27a-eafc480f5378" />
 
 ---
 
